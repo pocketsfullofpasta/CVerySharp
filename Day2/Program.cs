@@ -66,9 +66,9 @@ namespace Day2
         {
             Console.WriteLine("Apsveicam, tu nopirki eglīti, jo biji pārāk slinks pats uz mežu aiziet!\n" + 
                 "Tagad tikai jāizdomā kur viņu bāzt.\n" + "Kāds ir egles augstums?");
-            int x = Convert.ToInt32(Console.ReadLine().Trim().ToLower());
+            int x = Convert.ToInt32(Console.ReadLine().Trim());
             Console.WriteLine("Diametrs?");
-            int y = Convert.ToInt32(Console.ReadLine().Trim().ToLower());
+            int y = Convert.ToInt32(Console.ReadLine().Trim());
             Console.WriteLine("Tā ir egle vai sudrabegle?");
             string tips = Console.ReadLine().Trim().ToLower();
 
