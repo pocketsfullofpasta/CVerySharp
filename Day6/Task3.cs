@@ -4,11 +4,12 @@ using System.Text;
 
 namespace Day6
 {
-    class Task1
+    class Task3
     {
-        public static void PrintGreeting()
+
+        public static void GetNameSurname()
         {
-            Console.WriteLine("HelloWorld!");    
+
         }
     }
 }

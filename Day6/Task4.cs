@@ -4,11 +4,11 @@ using System.Text;
 
 namespace Day6
 {
-    class Task1
+    class Task4
     {
-        public static void PrintGreeting()
+        public static int Factorial(int n)
         {
-            Console.WriteLine("HelloWorld!");    
+            return n > 0 ? n * Factorial(n - 1) : 1; ;
         }
     }
 }
