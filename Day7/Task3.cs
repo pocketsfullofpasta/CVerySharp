@@ -8,12 +8,17 @@ namespace Day7
     {
         public static void PrintArrayValues(int[] array)
         {
-            Console.WriteLine(String.Join(", ", array));
+            foreach(int item in array)
+            {
+                Console.WriteLine(item);
+            }
         }
-        public static void PrintArrayValues(string[] array)
+        public static void PrintArrayValues(string[] array1)
         {
-            List<string> masivs = new List<string>();
-            Console.WriteLine()
+            foreach (string item in array1)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
     
