@@ -2,7 +2,7 @@
 
 namespace TicTacToe
 {
-    enum FieldEnum
+    public enum FieldEnum
     {
         O,
         X,
