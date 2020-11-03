@@ -19,13 +19,13 @@ namespace Day7
             //   Task2.PrintNameSurname($"{name}", $"{surname}");
             //   Task2.PrintNameAge($"{name}", $"{age}");
 
-           // int[] array = new int[] { 1, 2, 3, 4, 5 };
-           // Task3.PrintArrayValues(array);
-           // string[] array1 = new string[] { "brr", "grr", "hrr", "trauki" };
-           // Task3.PrintArrayValues(array1);
-            
+            // int[] array = new int[] { 1, 2, 3, 4, 5 };
+            // Task3.PrintArrayValues(array);
+            // string[] array1 = new string[] { "brr", "grr", "hrr", "trauki" };
+            // Task3.PrintArrayValues(array1);
 
-
+            string[] names = new string[] { "Jānis", "", "Pēteris", "Antons", "", "Andris" };
+            Task3.PrintArrayValues(names);
         }
     }
 }

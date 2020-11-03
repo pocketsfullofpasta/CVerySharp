@@ -10,14 +10,14 @@ namespace Day7
         {
             foreach(int item in array)
             {
-                Console.WriteLine(item);
+                Console.Write(item);
             }
         }
-        public static void PrintArrayValues(string[] array1)
+        public static void PrintArrayValues(string[] array)
         {
-            foreach (string item in array1)
+            foreach (string item in array)
             {
-                Console.WriteLine(item);
+                Console.Write(item);
             }
         }
     }

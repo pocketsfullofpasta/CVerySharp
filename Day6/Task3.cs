@@ -9,7 +9,7 @@ namespace Day6
 
         public static void GetNameSurname()
         {
-
+           
         }
     }
 }
