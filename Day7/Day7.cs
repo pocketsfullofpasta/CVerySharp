@@ -24,8 +24,15 @@ namespace Day7
             // string[] array1 = new string[] { "brr", "grr", "hrr", "trauki" };
             // Task3.PrintArrayValues(array1);
 
-            string[] names = new string[] { "Jānis", "", "Pēteris", "Antons", "", "Andris" };
-            Task3.PrintArrayValues(names);
+            //string[] names = new string[] { "Jānis", "", "Pēteris", "Antons", "", "Andris" };
+            //Task3.PrintArrayValues(names);
+            //names = Task4.GetNonEmptyValues(names);
+            //Task3.PrintArrayValues(names);
+
+            //Console.WriteLine(Task5.CalculateSum(3, 5));
+            //Console.WriteLine(Task5.CalculateSum(22, 513));
+            //Console.WriteLine(Task5.CalculateSum(333, 54));
+
         }
     }
 }

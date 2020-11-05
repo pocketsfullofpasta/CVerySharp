@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day7", "Day7\Day7.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TicTacToe", "TicTacToe\TicTacToe.csproj", "{7D1F575A-6EC2-4C81-B677-856BED8470DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day8", "Day8\Day8.csproj", "{CB90F64F-9167-4775-9833-653229A54527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day8", "Day8\Day8.csproj", "{CB90F64F-9167-4775-9833-653229A54527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day9", "Day9\Day9.csproj", "{F4562AB4-8A10-421A-8A52-19394858425C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{CB90F64F-9167-4775-9833-653229A54527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB90F64F-9167-4775-9833-653229A54527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB90F64F-9167-4775-9833-653229A54527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4562AB4-8A10-421A-8A52-19394858425C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4562AB4-8A10-421A-8A52-19394858425C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4562AB4-8A10-421A-8A52-19394858425C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4562AB4-8A10-421A-8A52-19394858425C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

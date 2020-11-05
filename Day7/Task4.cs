@@ -10,16 +10,16 @@ namespace Day7
     {
         public static string[] GetNonEmptyValues(string[] brr)
         {
-          //  return brr.Where((!String.IsNullOrEmpty(item)))
-          /*  List<string> brr = new List<string>();
+          
+            List<string> list = new List<string>();
             foreach (string item in brr)
             {
-                if (!String.IsNullOrEmpty(item))
+                if (!String.IsNullOrWhiteSpace(item))
                 {
-                    brr.Add(item);
+                    list.Add(item);
                 }
                 
-            }return brr.ToArray();*/
+            }return list.ToArray();
             
         }
     }
