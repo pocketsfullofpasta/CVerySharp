@@ -17,7 +17,8 @@ namespace Day9
 
               Person max = new Person("Max", 18);
               max.PrintPerson();*/
-            Car car1 = new Car("Toyota", "Prius", 12000f, "Grey", 2005);
+
+           /* Car car1 = new Car("Toyota", "Prius", 12000f, "Grey", 2005);
             Car car2 = new Car("Honda", "Accord", 6250.1f, "Blue", 1996);
             Car car3 = new Car("Opel", "Insignia", 13400f, "White", 2015);
             Car car4 = new Car("Ford", "Mustang", 66000.32f, "Red", 2010);
@@ -39,7 +40,9 @@ namespace Day9
                 }
             }
 
-            Console.WriteLine(mostExpensive.PrintCar());
+            Console.WriteLine(mostExpensive.PrintCar());*/
+
+
 
         }
     }
